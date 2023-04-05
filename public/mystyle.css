@@ -1,0 +1,26 @@
+
+*{
+
+    margin: 0 !important;
+    box-sizing: border-box;
+}
+.Slider_img{
+
+    height:700px;
+
+    width: 700px;
+    
+}
+/* .img-div{
+    height: 200px;
+    width:200px;
+}
+
+.img-div:hover{
+cursor: pointer;
+transform: scale(1.2);
+transition: 3s;
+overflow: hidden;
+}
+ */
+
